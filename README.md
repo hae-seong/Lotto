@@ -1,5 +1,6 @@
 # Lotto
 로또 숫자를 랜덤으로 보여주어 추천한다.
+
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.Container;
